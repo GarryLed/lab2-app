@@ -9,7 +9,7 @@ import { CommonModule } from '@angular/common';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'Week 2 - To Do List';
+  title = 'Week 2 - To Do List - Garry Ledwith S00256356';
 
   thingsToDo = [
     "Learn Javascript",
